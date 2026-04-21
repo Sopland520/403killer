@@ -140,7 +140,7 @@ MIT — see [LICENSE](LICENSE)
 
 <div align="center">
 
-Made with by **Sopland**
+Made by **Sopland**
 
 **[⭐ Star this repo](../../stargazers) if it helped you pop a 403!**
 
